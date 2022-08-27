@@ -161,7 +161,7 @@
                             </table>
 
                             <div>
-                                <p>Mọi thắc mắc liên hệ qua <a href="">fanpage</a> hoặc qua SDT : 0394830932</p>
+                                <p>Mọi thắc mắc liên hệ qua tao <a href="">fanpage</a> hoặc qua SDT : 0394830932</p>
                             </div>
 
                         </div>
